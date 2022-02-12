@@ -3,7 +3,7 @@
 
 Hass Consulting Company is a real state company that determines the housing prices using the information available on the houses. In this context, the problem is to understand how the given information influences the level of prices. 
 
-The first process is to do load the data into the colab notebook and use Python for analysis.
+The first process to do is load the data into the colab notebook and use Python for analysis.
 The next step is to do data cleaning, which involves checking for null values, duplicated values and checking for outliers, and handle them. After data cleaning , the next step is the exploratory data analysis. This refers to univarite, bivariate and multivariate analysis. The multivariate analysis procedure conducted on this analysis is linear Discriminant Analysis. 
 
 After understanding the data, we fitted the data on regression models. There were different rregression methods used so as to get the best fit for our model. 
